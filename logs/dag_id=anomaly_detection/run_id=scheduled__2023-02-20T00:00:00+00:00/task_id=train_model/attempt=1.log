@@ -1,0 +1,30 @@
+[2025-05-07T15:37:30.667-0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-05-07T15:37:30.681-0300] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: anomaly_detection.train_model scheduled__2023-02-20T00:00:00+00:00 [queued]>
+[2025-05-07T15:37:30.688-0300] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: anomaly_detection.train_model scheduled__2023-02-20T00:00:00+00:00 [queued]>
+[2025-05-07T15:37:30.688-0300] {taskinstance.py:2867} INFO - Starting attempt 1 of 2
+[2025-05-07T15:37:30.910-0300] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): train_model> on 2023-02-20 00:00:00+00:00
+[2025-05-07T15:37:30.943-0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'anomaly_detection', 'train_model', 'scheduled__2023-02-20T00:00:00+00:00', '--job-id', '265', '--raw', '--subdir', 'DAGS_FOLDER/anomaly_detection.py', '--cfg-path', '/tmp/tmp91x2dmf4']
+[2025-05-07T15:37:30.944-0300] {logging_mixin.py:190} WARNING - /home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=42280) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-05-07T15:37:30.945-0300] {standard_task_runner.py:105} INFO - Job 265: Subtask train_model
+[2025-05-07T15:37:30.945-0300] {standard_task_runner.py:72} INFO - Started process 42299 to run task
+[2025-05-07T15:37:31.288-0300] {task_command.py:467} INFO - Running <TaskInstance: anomaly_detection.train_model scheduled__2023-02-20T00:00:00+00:00 [running]> on host pyshell
+[2025-05-07T15:37:32.118-0300] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='anomaly_detection' AIRFLOW_CTX_TASK_ID='train_model' AIRFLOW_CTX_EXECUTION_DATE='2023-02-20T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-02-20T00:00:00+00:00'
+[2025-05-07T15:37:32.120-0300] {taskinstance.py:732} INFO - ::endgroup::
+[2025-05-07T15:37:32.204-0300] {forecaster.py:961} INFO - Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+[2025-05-07T15:37:32.204-0300] {forecaster.py:961} INFO - Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+[2025-05-07T15:37:32.220-0300] {filesystem.py:118} DEBUG - input tempfile: /tmp/tmp_vgxyf_0/ymv87o7y.json
+[2025-05-07T15:37:32.226-0300] {filesystem.py:118} DEBUG - input tempfile: /tmp/tmp_vgxyf_0/6ey7epmn.json
+[2025-05-07T15:37:32.227-0300] {model.py:2042} DEBUG - idx 0
+[2025-05-07T15:37:32.227-0300] {model.py:2043} DEBUG - running CmdStan, num_threads: None
+[2025-05-07T15:37:32.227-0300] {model.py:2055} DEBUG - CmdStan args: ['/home/pyshell/airflow_env/lib/python3.12/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=10109', 'data', 'file=/tmp/tmp_vgxyf_0/ymv87o7y.json', 'init=/tmp/tmp_vgxyf_0/6ey7epmn.json', 'output', 'file=/tmp/tmp_vgxyf_0/prophet_models4iosxcw/prophet_model-20250507153732.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+[2025-05-07T15:37:32.227-0300] {logging_mixin.py:190} WARNING - 15:37:32 - cmdstanpy - INFO - Chain [1] start processing
+[2025-05-07T15:37:32.227-0300] {model.py:2058} INFO - Chain [1] start processing
+[2025-05-07T15:37:32.239-0300] {logging_mixin.py:190} WARNING - 15:37:32 - cmdstanpy - INFO - Chain [1] done processing
+[2025-05-07T15:37:32.239-0300] {model.py:2115} INFO - Chain [1] done processing
+[2025-05-07T15:37:32.674-0300] {python.py:240} INFO - Done. Returned value was: None
+[2025-05-07T15:37:32.694-0300] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-05-07T15:37:32.695-0300] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=anomaly_detection, task_id=train_model, run_id=scheduled__2023-02-20T00:00:00+00:00, execution_date=20230220T000000, start_date=20250507T183730, end_date=20250507T183732
+[2025-05-07T15:37:33.893-0300] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-05-07T15:37:33.927-0300] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-05-07T15:37:33.928-0300] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2025-05-07T15:37:35.948-0300] {standard_task_runner.py:217} INFO - Process not found (most likely exited), stop collecting metrics

@@ -1,0 +1,287 @@
+[2025-05-07T15:17:05.616-0300] {processor.py:186} INFO - Started process (PID=39532) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:17:05.617-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:17:05.620-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:17:05.620-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:17:05.636-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:17:05.663-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:17:05.663-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:17:05.683-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:17:05.683-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:17:05.977-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.367 seconds
+[2025-05-07T15:17:42.185-0300] {processor.py:186} INFO - Started process (PID=39599) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:17:42.206-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:17:42.208-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:17:42.207-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:17:42.223-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:17:42.254-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:17:42.254-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:17:42.273-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:17:42.272-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:17:42.583-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.404 seconds
+[2025-05-07T15:18:53.807-0300] {processor.py:186} INFO - Started process (PID=39765) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:18:53.827-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:18:53.829-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:18:53.829-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:18:53.850-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:18:53.881-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:18:53.880-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:18:53.898-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:18:53.898-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:18:54.122-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.321 seconds
+[2025-05-07T15:19:40.873-0300] {processor.py:186} INFO - Started process (PID=39874) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:19:40.897-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:19:40.899-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:19:40.899-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:19:40.917-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:19:40.948-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:19:40.948-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:19:40.965-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:19:40.965-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:19:41.222-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.354 seconds
+[2025-05-07T15:20:28.800-0300] {processor.py:186} INFO - Started process (PID=40022) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:20:28.834-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:20:28.841-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:20:28.840-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:20:28.876-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:20:28.903-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:20:28.902-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:20:28.926-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:20:28.926-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:20:29.322-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.530 seconds
+[2025-05-07T15:21:17.084-0300] {processor.py:186} INFO - Started process (PID=40139) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:21:17.193-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:21:17.196-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:21:17.195-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:21:17.213-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:21:17.241-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:21:17.241-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:21:17.261-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:21:17.260-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:21:17.663-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.600 seconds
+[2025-05-07T15:22:11.483-0300] {processor.py:186} INFO - Started process (PID=40250) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:22:11.500-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:22:11.507-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:22:11.505-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:22:11.536-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:22:11.567-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:22:11.567-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:22:11.587-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:22:11.586-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:22:11.993-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.517 seconds
+[2025-05-07T15:23:04.225-0300] {processor.py:186} INFO - Started process (PID=40362) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:23:04.354-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:23:04.361-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:23:04.360-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:23:04.400-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:23:04.652-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:23:04.651-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:23:05.207-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:23:05.207-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:23:05.698-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 1.479 seconds
+[2025-05-07T15:23:56.945-0300] {processor.py:186} INFO - Started process (PID=40473) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:23:56.964-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:23:56.967-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:23:56.967-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:23:56.989-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:23:57.017-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:23:57.016-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:23:57.035-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:23:57.034-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:23:57.279-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.343 seconds
+[2025-05-07T15:24:53.476-0300] {processor.py:186} INFO - Started process (PID=40584) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:24:53.506-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:24:53.508-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:24:53.508-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:24:53.526-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:24:53.915-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:24:53.915-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:24:53.936-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:24:53.936-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:24:54.218-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.748 seconds
+[2025-05-07T15:25:43.714-0300] {processor.py:186} INFO - Started process (PID=40727) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:25:43.728-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:25:43.731-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:25:43.730-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:25:43.749-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:25:43.776-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:25:43.776-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:25:43.795-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:25:43.794-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:25:44.193-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.485 seconds
+[2025-05-07T15:26:35.509-0300] {processor.py:186} INFO - Started process (PID=40840) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:26:35.527-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:26:35.530-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:26:35.529-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:26:35.553-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:26:35.582-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:26:35.582-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:26:35.602-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:26:35.602-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:26:35.951-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.450 seconds
+[2025-05-07T15:27:26.849-0300] {processor.py:186} INFO - Started process (PID=40950) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:27:26.865-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:27:26.867-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:27:26.867-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:27:26.892-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:27:26.921-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:27:26.921-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:27:26.940-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:27:26.940-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:27:27.211-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.371 seconds
+[2025-05-07T15:28:20.066-0300] {processor.py:186} INFO - Started process (PID=41061) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:28:20.084-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:28:20.087-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:28:20.086-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:28:20.102-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:28:20.130-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:28:20.130-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:28:20.146-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:28:20.146-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:28:20.445-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.384 seconds
+[2025-05-07T15:29:11.397-0300] {processor.py:186} INFO - Started process (PID=41170) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:29:11.417-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:29:11.419-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:29:11.419-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:29:11.435-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:29:11.465-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:29:11.465-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:29:11.485-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:29:11.485-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:29:11.728-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.337 seconds
+[2025-05-07T15:30:02.569-0300] {processor.py:186} INFO - Started process (PID=41284) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:30:02.606-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:30:02.609-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:30:02.608-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:30:02.628-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:30:02.658-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:30:02.657-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:30:02.677-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:30:02.677-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:30:03.066-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.501 seconds
+[2025-05-07T15:30:57.964-0300] {processor.py:186} INFO - Started process (PID=41441) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:30:57.989-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:30:57.993-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:30:57.992-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:30:58.022-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:30:59.141-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:30:59.141-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:30:59.167-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:30:59.166-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:30:59.464-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 1.509 seconds
+[2025-05-07T15:31:53.426-0300] {processor.py:186} INFO - Started process (PID=41552) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:31:53.450-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:31:53.457-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:31:53.456-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:31:53.502-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:31:53.538-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:31:53.538-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:31:53.558-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:31:53.558-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:31:53.845-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.442 seconds
+[2025-05-07T15:32:47.356-0300] {processor.py:186} INFO - Started process (PID=41664) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:32:47.359-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:32:47.369-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:32:47.367-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:32:47.401-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:32:47.434-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:32:47.433-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:32:47.454-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:32:47.454-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:32:47.677-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.342 seconds
+[2025-05-07T15:33:43.166-0300] {processor.py:186} INFO - Started process (PID=41775) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:33:43.187-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:33:43.190-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:33:43.189-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:33:43.209-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:33:43.238-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:33:43.237-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:33:43.256-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:33:43.256-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:33:43.525-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.365 seconds
+[2025-05-07T15:34:35.624-0300] {processor.py:186} INFO - Started process (PID=41886) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:34:35.646-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:34:35.649-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:34:35.648-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:34:35.671-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:34:35.702-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:34:35.701-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:34:35.722-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:34:35.722-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:34:35.963-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.349 seconds
+[2025-05-07T15:35:27.962-0300] {processor.py:186} INFO - Started process (PID=42028) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:35:27.987-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:35:27.989-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:35:27.989-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:35:28.008-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:35:28.532-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:35:28.531-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:35:28.836-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:35:28.835-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:35:29.158-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 1.204 seconds
+[2025-05-07T15:36:21.897-0300] {processor.py:186} INFO - Started process (PID=42147) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:36:21.916-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:36:21.918-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:36:21.918-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:36:21.933-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:36:22.962-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:36:22.961-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:36:22.993-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:36:22.993-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:36:23.298-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 1.410 seconds
+[2025-05-07T15:37:13.103-0300] {processor.py:186} INFO - Started process (PID=42256) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:37:13.119-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:37:13.121-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:37:13.121-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:37:13.138-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:37:13.165-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:37:13.165-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:37:13.184-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:37:13.184-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:37:13.474-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.377 seconds
+[2025-05-07T15:38:07.953-0300] {processor.py:186} INFO - Started process (PID=42374) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:38:07.962-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:38:07.965-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:38:07.964-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:38:07.982-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:38:08.008-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:38:08.008-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:38:08.025-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:38:08.025-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:38:08.333-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.387 seconds
+[2025-05-07T15:38:57.695-0300] {processor.py:186} INFO - Started process (PID=42486) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:38:57.809-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:38:57.817-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:38:57.815-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:38:57.885-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:38:58.544-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:38:58.543-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:38:58.866-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:38:58.865-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:38:59.138-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 1.450 seconds
+[2025-05-07T15:39:50.415-0300] {processor.py:186} INFO - Started process (PID=42595) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:39:50.441-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:39:50.448-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:39:50.447-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:39:50.477-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:39:50.504-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:39:50.504-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:39:50.523-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:39:50.523-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:39:50.770-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.367 seconds
+[2025-05-07T15:40:43.734-0300] {processor.py:186} INFO - Started process (PID=42742) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:40:43.749-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:40:43.751-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:40:43.751-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:40:43.767-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:40:43.793-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:40:43.793-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:40:43.810-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:40:43.810-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:40:44.219-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.490 seconds
+[2025-05-07T15:41:35.664-0300] {processor.py:186} INFO - Started process (PID=42860) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:41:35.679-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:41:35.681-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:41:35.681-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:41:35.700-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:41:35.730-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:41:35.729-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:41:35.749-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:41:35.749-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:41:36.019-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.362 seconds
+[2025-05-07T15:42:26.362-0300] {processor.py:186} INFO - Started process (PID=42970) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:42:26.384-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:42:26.392-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:42:26.391-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:42:26.419-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:42:26.445-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:42:26.445-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:42:26.463-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:42:26.463-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:42:26.742-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.385 seconds
+[2025-05-07T15:43:21.792-0300] {processor.py:186} INFO - Started process (PID=43082) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:43:21.895-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:43:21.904-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:43:21.903-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:43:21.933-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:43:22.763-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:43:22.762-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:43:23.068-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:43:23.068-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:43:23.376-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 1.591 seconds
+[2025-05-07T15:44:13.959-0300] {processor.py:186} INFO - Started process (PID=43191) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:44:13.975-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:44:13.981-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:44:13.980-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:44:14.012-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:44:14.041-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:44:14.040-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:44:14.060-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:44:14.059-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:44:14.350-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.398 seconds
+[2025-05-07T15:45:05.325-0300] {processor.py:186} INFO - Started process (PID=43304) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:45:05.335-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:45:05.344-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:45:05.343-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:45:05.375-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:45:05.406-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:45:05.405-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:45:05.426-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:45:05.425-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:45:05.683-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.364 seconds
+[2025-05-07T15:45:57.963-0300] {processor.py:186} INFO - Started process (PID=43450) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:45:58.116-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:45:58.125-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:45:58.123-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:45:58.164-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:45:58.530-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:45:58.529-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:45:58.829-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:45:58.828-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:45:59.085-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 1.137 seconds
+[2025-05-07T15:46:49.844-0300] {processor.py:186} INFO - Started process (PID=43561) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:46:49.866-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:46:49.869-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:46:49.869-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:46:49.883-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:46:49.910-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:46:49.910-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:46:49.930-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:46:49.929-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:46:50.243-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.403 seconds
+[2025-05-07T15:47:42.474-0300] {processor.py:186} INFO - Started process (PID=43673) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:47:42.489-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:47:42.496-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:47:42.495-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:47:42.529-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:47:42.556-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:47:42.556-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:47:42.574-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:47:42.574-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:47:42.818-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.348 seconds
+[2025-05-07T15:48:39.903-0300] {processor.py:186} INFO - Started process (PID=43782) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:48:39.926-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:48:39.929-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:48:39.929-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:48:39.947-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:48:41.140-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:48:41.140-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:48:41.163-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:48:41.163-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:48:41.419-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 1.524 seconds
+[2025-05-07T15:49:32.624-0300] {processor.py:186} INFO - Started process (PID=43893) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:49:32.643-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:49:32.646-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:49:32.645-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:49:32.665-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:49:32.695-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:49:32.695-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:49:32.716-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:49:32.715-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:49:32.991-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.373 seconds
+[2025-05-07T15:50:24.319-0300] {processor.py:186} INFO - Started process (PID=44038) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:50:24.343-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:50:24.347-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:50:24.346-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:50:24.370-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:50:24.399-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:50:24.399-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:50:24.417-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:50:24.417-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:50:24.798-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.488 seconds
+[2025-05-07T15:51:17.803-0300] {processor.py:186} INFO - Started process (PID=44155) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:51:17.908-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:51:17.917-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:51:17.915-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:51:17.948-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:51:17.976-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:51:17.975-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:51:17.995-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:51:17.995-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:51:18.256-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.461 seconds
+[2025-05-07T15:52:09.064-0300] {processor.py:186} INFO - Started process (PID=44265) to work on /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:52:09.088-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_validation.py for tasks to queue
+[2025-05-07T15:52:09.091-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:52:09.091-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:52:09.109-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_validation' retrieved from /home/pyshell/airflow/dags/bank_transactions_validation.py
+[2025-05-07T15:52:09.136-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:52:09.136-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:52:09.154-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:52:09.153-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_validation to 2025-05-06 00:00:00+00:00, run_after=2025-05-07 00:00:00+00:00
+[2025-05-07T15:52:09.521-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_validation.py took 0.464 seconds

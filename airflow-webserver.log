@@ -1,0 +1,23 @@
+2025-05-02 16:28:12,278 ERROR - [0 / 0] Some workers seem to have died and gunicorn did not restart them as expected
+2025-05-02 16:30:55,924 INFO - Received signal: 15. Closing gunicorn.
+2025-05-02 16:51:35,073 INFO - Received signal: 15. Closing gunicorn.
+2025-05-02 16:58:38,893 INFO - Received signal: 15. Closing gunicorn.
+2025-05-02 17:14:19,677 INFO - Received signal: 15. Closing gunicorn.
+2025-05-02 17:15:11,909 INFO - Received signal: 15. Closing gunicorn.
+2025-05-02 17:22:49,945 INFO - Received signal: 15. Closing gunicorn.
+2025-05-02 17:57:26,413 INFO - Received signal: 15. Closing gunicorn.
+2025-05-02 18:22:18,511 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 07:45:50,762 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 07:48:37,877 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 07:49:27,017 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 07:54:11,171 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 08:19:08,989 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 09:05:22,897 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 09:36:24,167 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 10:16:44,866 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 11:26:11,734 INFO - Received signal: 15. Closing gunicorn.
+2025-05-05 12:06:39,279 INFO - Received signal: 15. Closing gunicorn.
+2025-05-07 11:16:51,695 INFO - Received signal: 15. Closing gunicorn.
+2025-05-07 14:18:35,652 INFO - Received signal: 15. Closing gunicorn.
+2025-05-07 14:32:44,506 INFO - Received signal: 15. Closing gunicorn.
+2025-05-07 15:52:54,745 INFO - Received signal: 15. Closing gunicorn.

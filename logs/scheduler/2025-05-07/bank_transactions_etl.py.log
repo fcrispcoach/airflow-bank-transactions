@@ -1,0 +1,287 @@
+[2025-05-07T15:17:23.307-0300] {processor.py:186} INFO - Started process (PID=39558) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:17:23.308-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:17:23.309-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:17:23.309-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:17:24.557-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:17:24.574-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:17:24.573-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:17:24.589-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:17:24.589-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:17:24.949-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.647 seconds
+[2025-05-07T15:18:27.499-0300] {processor.py:186} INFO - Started process (PID=39702) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:18:27.517-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:18:27.519-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:18:27.519-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:18:28.307-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:18:28.324-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:18:28.323-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:18:28.339-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:18:28.338-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:18:28.613-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.120 seconds
+[2025-05-07T15:19:05.163-0300] {processor.py:186} INFO - Started process (PID=39789) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:19:05.180-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:19:05.182-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:19:05.182-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:19:05.922-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:19:05.937-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:19:05.937-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:19:05.952-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:19:05.952-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:19:06.196-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.041 seconds
+[2025-05-07T15:20:01.908-0300] {processor.py:186} INFO - Started process (PID=39920) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:20:01.932-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:20:01.935-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:20:01.934-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:20:02.676-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:20:02.691-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:20:02.691-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:20:02.706-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:20:02.706-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:20:02.974-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.070 seconds
+[2025-05-07T15:20:39.997-0300] {processor.py:186} INFO - Started process (PID=40046) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:20:40.015-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:20:40.017-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:20:40.017-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:20:40.777-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:20:40.792-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:20:40.792-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:20:40.806-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:20:40.806-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:20:41.128-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.137 seconds
+[2025-05-07T15:21:41.949-0300] {processor.py:186} INFO - Started process (PID=40188) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:21:42.025-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:21:42.032-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:21:42.031-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:21:42.830-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:21:42.845-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:21:42.845-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:21:42.862-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:21:42.862-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:21:43.189-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.245 seconds
+[2025-05-07T15:22:24.932-0300] {processor.py:186} INFO - Started process (PID=40276) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:22:24.952-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:22:24.955-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:22:24.954-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:22:25.690-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:22:25.706-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:22:25.705-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:22:25.728-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:22:25.728-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:22:25.960-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.033 seconds
+[2025-05-07T15:23:29.226-0300] {processor.py:186} INFO - Started process (PID=40410) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:23:29.243-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:23:29.246-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:23:29.246-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:23:30.061-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:23:30.077-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:23:30.077-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:23:30.093-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:23:30.093-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:23:30.319-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.101 seconds
+[2025-05-07T15:24:09.622-0300] {processor.py:186} INFO - Started process (PID=40497) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:24:09.731-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:24:09.739-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:24:09.738-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:24:10.582-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:24:11.068-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:24:11.067-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:24:11.091-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:24:11.091-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:24:11.593-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.977 seconds
+[2025-05-07T15:25:15.780-0300] {processor.py:186} INFO - Started process (PID=40633) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:25:15.890-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:25:15.898-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:25:15.896-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:25:16.771-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:25:16.824-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:25:16.824-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:25:16.845-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:25:16.845-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:25:17.081-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.307 seconds
+[2025-05-07T15:25:56.445-0300] {processor.py:186} INFO - Started process (PID=40754) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:25:56.463-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:25:56.466-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:25:56.465-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:25:57.229-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:25:57.246-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:25:57.245-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:25:57.261-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:25:57.261-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:25:57.500-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.060 seconds
+[2025-05-07T15:26:59.186-0300] {processor.py:186} INFO - Started process (PID=40887) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:26:59.198-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:26:59.200-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:26:59.200-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:26:59.977-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:26:59.993-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:26:59.992-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:27:00.008-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:27:00.008-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:27:00.243-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.062 seconds
+[2025-05-07T15:27:39.625-0300] {processor.py:186} INFO - Started process (PID=40974) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:27:39.745-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:27:39.748-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:27:39.747-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:27:40.623-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:27:41.088-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:27:41.088-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:27:41.108-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:27:41.108-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:27:41.476-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.858 seconds
+[2025-05-07T15:28:43.402-0300] {processor.py:186} INFO - Started process (PID=41107) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:28:43.420-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:28:43.422-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:28:43.422-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:28:44.231-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:28:44.247-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:28:44.246-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:28:44.261-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:28:44.261-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:28:44.515-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.119 seconds
+[2025-05-07T15:29:23.202-0300] {processor.py:186} INFO - Started process (PID=41195) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:29:23.218-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:29:23.225-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:29:23.224-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:29:24.039-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:29:24.055-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:29:24.055-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:29:24.071-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:29:24.070-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:29:24.441-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.245 seconds
+[2025-05-07T15:30:28.057-0300] {processor.py:186} INFO - Started process (PID=41373) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:30:28.196-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:30:28.204-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:30:28.202-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:30:29.219-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:30:29.486-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:30:29.485-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:30:29.506-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:30:29.506-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:30:29.793-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.746 seconds
+[2025-05-07T15:31:11.169-0300] {processor.py:186} INFO - Started process (PID=41465) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:31:11.185-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:31:11.192-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:31:11.191-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:31:12.074-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:31:12.091-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:31:12.090-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:31:12.107-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:31:12.107-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:31:12.766-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.620 seconds
+[2025-05-07T15:32:17.385-0300] {processor.py:186} INFO - Started process (PID=41599) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:32:17.403-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:32:17.406-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:32:17.406-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:32:18.198-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:32:18.217-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:32:18.217-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:32:18.234-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:32:18.233-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:32:18.490-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.113 seconds
+[2025-05-07T15:32:59.562-0300] {processor.py:186} INFO - Started process (PID=41689) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:32:59.681-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:32:59.690-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:32:59.688-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:33:00.525-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:33:00.541-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:33:00.541-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:33:00.558-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:33:00.558-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:33:00.796-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.240 seconds
+[2025-05-07T15:34:07.150-0300] {processor.py:186} INFO - Started process (PID=41821) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:34:07.171-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:34:07.178-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:34:07.177-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:34:07.961-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:34:07.977-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:34:07.977-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:34:07.993-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:34:07.993-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:34:08.235-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.091 seconds
+[2025-05-07T15:34:47.265-0300] {processor.py:186} INFO - Started process (PID=41910) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:34:47.290-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:34:47.292-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:34:47.292-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:34:48.085-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:34:48.101-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:34:48.100-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:34:48.117-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:34:48.117-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:34:48.445-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.186 seconds
+[2025-05-07T15:35:53.134-0300] {processor.py:186} INFO - Started process (PID=42082) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:35:53.157-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:35:53.166-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:35:53.165-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:35:53.976-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:35:53.991-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:35:53.991-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:35:54.008-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:35:54.007-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:35:54.350-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.222 seconds
+[2025-05-07T15:36:35.273-0300] {processor.py:186} INFO - Started process (PID=42171) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:36:35.284-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:36:35.287-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:36:35.286-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:36:36.077-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:36:36.095-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:36:36.095-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:36:36.111-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:36:36.111-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:36:36.400-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.133 seconds
+[2025-05-07T15:37:37.729-0300] {processor.py:186} INFO - Started process (PID=42311) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:37:37.747-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:37:37.754-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:37:37.753-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:37:38.523-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:37:38.539-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:37:38.539-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:37:38.555-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:37:38.555-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:37:38.935-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.212 seconds
+[2025-05-07T15:38:20.583-0300] {processor.py:186} INFO - Started process (PID=42400) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:38:20.608-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:38:20.611-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:38:20.610-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:38:21.368-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:38:21.386-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:38:21.386-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:38:21.402-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:38:21.402-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:38:21.846-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.268 seconds
+[2025-05-07T15:39:21.178-0300] {processor.py:186} INFO - Started process (PID=42533) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:39:21.196-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:39:21.199-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:39:21.198-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:39:22.144-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:39:22.403-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:39:22.403-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:39:23.010-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:39:23.009-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:39:23.306-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 2.135 seconds
+[2025-05-07T15:40:03.534-0300] {processor.py:186} INFO - Started process (PID=42619) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:40:03.554-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:40:03.557-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:40:03.556-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:40:04.522-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:40:04.539-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:40:04.538-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:40:04.813-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:40:04.812-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:40:05.131-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.602 seconds
+[2025-05-07T15:41:07.885-0300] {processor.py:186} INFO - Started process (PID=42796) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:41:07.898-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:41:07.900-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:41:07.900-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:41:08.642-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:41:08.657-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:41:08.657-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:41:08.675-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:41:08.674-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:41:08.917-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.037 seconds
+[2025-05-07T15:41:47.440-0300] {processor.py:186} INFO - Started process (PID=42884) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:41:47.459-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:41:47.462-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:41:47.461-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:41:48.237-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:41:48.252-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:41:48.252-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:41:48.267-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:41:48.267-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:41:48.502-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.066 seconds
+[2025-05-07T15:42:50.364-0300] {processor.py:186} INFO - Started process (PID=43017) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:42:50.382-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:42:50.384-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:42:50.383-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:42:51.104-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:42:51.120-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:42:51.120-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:42:51.136-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:42:51.136-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:42:51.478-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.119 seconds
+[2025-05-07T15:43:35.082-0300] {processor.py:186} INFO - Started process (PID=43106) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:43:35.083-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:43:35.086-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:43:35.086-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:43:35.911-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:43:35.928-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:43:35.928-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:43:35.945-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:43:35.945-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:43:36.263-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.187 seconds
+[2025-05-07T15:44:37.493-0300] {processor.py:186} INFO - Started process (PID=43239) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:44:37.508-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:44:37.511-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:44:37.510-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:44:38.266-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:44:38.282-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:44:38.282-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:44:38.299-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:44:38.298-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:44:38.595-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.109 seconds
+[2025-05-07T15:45:17.257-0300] {processor.py:186} INFO - Started process (PID=43328) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:45:17.273-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:45:17.276-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:45:17.276-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:45:18.076-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:45:18.091-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:45:18.091-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:45:18.107-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:45:18.107-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:45:18.400-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.151 seconds
+[2025-05-07T15:46:21.888-0300] {processor.py:186} INFO - Started process (PID=43498) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:46:21.961-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:46:21.971-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:46:21.969-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:46:22.930-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:46:22.947-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:46:22.947-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:46:22.966-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:46:22.966-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:46:23.250-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.373 seconds
+[2025-05-07T15:47:02.028-0300] {processor.py:186} INFO - Started process (PID=43586) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:47:02.050-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:47:02.053-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:47:02.052-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:47:02.807-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:47:02.825-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:47:02.824-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:47:02.840-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:47:02.840-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:47:03.359-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.339 seconds
+[2025-05-07T15:48:07.870-0300] {processor.py:186} INFO - Started process (PID=43719) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:48:07.889-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:48:07.891-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:48:07.891-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:48:08.655-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:48:08.673-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:48:08.673-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:48:08.693-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:48:08.692-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:48:08.946-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.082 seconds
+[2025-05-07T15:48:53.356-0300] {processor.py:186} INFO - Started process (PID=43806) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:48:53.371-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:48:53.373-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:48:53.373-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:48:54.174-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:48:54.192-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:48:54.191-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:48:54.207-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:48:54.207-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:48:54.495-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.146 seconds
+[2025-05-07T15:49:55.937-0300] {processor.py:186} INFO - Started process (PID=43939) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:49:55.960-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:49:55.968-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:49:55.966-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:49:56.737-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:49:56.753-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:49:56.753-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:49:56.768-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:49:56.768-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:49:57.013-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.084 seconds
+[2025-05-07T15:50:36.574-0300] {processor.py:186} INFO - Started process (PID=44062) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:50:36.596-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:50:36.599-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:50:36.598-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:50:37.358-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:50:37.374-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:50:37.374-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:50:37.390-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:50:37.389-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:50:37.629-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.060 seconds
+[2025-05-07T15:51:40.607-0300] {processor.py:186} INFO - Started process (PID=44202) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:51:40.633-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:51:40.641-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:51:40.640-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:51:41.555-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:51:41.574-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:51:41.574-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:51:41.591-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:51:41.591-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:51:41.856-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.255 seconds
+[2025-05-07T15:52:23.588-0300] {processor.py:186} INFO - Started process (PID=44295) to work on /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:52:23.593-0300] {processor.py:914} INFO - Processing file /home/pyshell/airflow/dags/bank_transactions_etl.py for tasks to queue
+[2025-05-07T15:52:23.595-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:52:23.595-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:52:24.360-0300] {processor.py:925} INFO - DAG(s) 'bank_transactions_ml_append' retrieved from /home/pyshell/airflow/dags/bank_transactions_etl.py
+[2025-05-07T15:52:24.377-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:52:24.376-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-07T15:52:24.393-0300] {logging_mixin.py:190} INFO - [2025-05-07T15:52:24.393-0300] {dag.py:4180} INFO - Setting next_dagrun for bank_transactions_ml_append to 2025-05-07 12:00:00+00:00, run_after=2025-05-07 18:00:00+00:00
+[2025-05-07T15:52:24.655-0300] {processor.py:208} INFO - Processing /home/pyshell/airflow/dags/bank_transactions_etl.py took 1.074 seconds

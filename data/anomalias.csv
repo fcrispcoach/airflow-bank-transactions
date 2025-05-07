@@ -1,0 +1,86 @@
+id_transacao,nome_cliente,data,valor,status,motivo_falha,valor_absoluto,tipo_transacao,anomaly_score,is_anomaly
+d1ef63c9-d45c-4937-aab8-cfbf4285bb5c,William Kramer,2025-03-22T00:00:00.000,59.68,falha,Catch in history it visit increase word.,59.68,crédito,-1,True
+abc7754f-edde-4eb2-bb63-87edeb988efa,Angela Reyes,2025-01-08T00:00:00.000,-808.8,falha,Onto between hope usually but loss show.,808.8,débito,-1,True
+d55ab3b8-77a3-491b-b102-fc05affe91e9,Steven Stanley,2025-04-10T00:00:00.000,-215.04,falha,No shake decision born however ball garden about.,215.04,débito,-1,True
+d2afb1f6-612e-4143-bb2e-60e1e1aa5f0d,Laura Carr,2025-04-17T00:00:00.000,-9174.92,falha,Main poor cut person.,9174.92,débito,-1,True
+dd109079-8481-41e9-83ef-a277c9860014,Lauren Henderson,2025-03-27T00:00:00.000,7893.85,falha,Staff phone see may least bed.,7893.85,crédito,-1,True
+512afc49-8112-46ff-92f6-7fe8d4afb86a,Vincent Hopkins,2025-04-11T00:00:00.000,9981.97,sucesso,,9981.97,crédito,-1,True
+1e37e827-6bdb-43b1-8d4b-6216325249c4,Veronica Cole,2025-04-24T00:00:00.000,197.73,falha,Game technology responsibility his question ever despite.,197.73,crédito,-1,True
+ba513ad2-c8e6-47e1-9e78-1e5f87736ebe,Robert Mendoza,2025-04-02T00:00:00.000,-534.61,falha,Well three those.,534.61,débito,-1,True
+d8aa4c2e-8e18-4eee-9c51-30d1a10610e0,Joshua Martin,2025-04-02T00:00:00.000,-62.61,falha,Decide second short study herself store over.,62.61,débito,-1,True
+ab2f591d-0235-4862-9880-f17b704d5597,Denise Mills,2025-04-21T00:00:00.000,8308.04,falha,Often right tree key address she however other.,8308.04,crédito,-1,True
+befb6b7d-028d-4b40-876e-3c4dad41ddda,Rita Smith,2025-04-14T00:00:00.000,644.72,falha,Perhaps fund test friend again Republican.,644.72,crédito,-1,True
+a1aa8168-567c-49dc-8e54-0045a43acd27,James Miller,2025-04-10T00:00:00.000,8458.42,falha,Serve nation billion now heavy low movement.,8458.42,crédito,-1,True
+e613de28-a249-40a8-ae71-b369b5867c0a,Brian Moore,2025-03-31T00:00:00.000,1116.85,falha,Mean long speech media.,1116.85,crédito,-1,True
+f99f491f-a2c5-42ab-9569-39edbc17146c,Karen Wheeler,2025-04-05T00:00:00.000,-9778.52,falha,Worry contain return fly by.,9778.52,débito,-1,True
+84a78d57-f95e-4879-89e8-639607a41e79,Robert Jones,2025-04-06T00:00:00.000,544.93,falha,Consider read simple.,544.93,crédito,-1,True
+260ede2a-917e-4e7c-9d3b-c36c0d11b017,Matthew Woods,2025-04-12T00:00:00.000,-9714.05,falha,Right race education hospital world state.,9714.05,débito,-1,True
+994ebe5d-229d-453e-8ebb-1173b056cb03,Marvin White,2025-04-14T00:00:00.000,957.52,falha,Choice relationship teacher.,957.52,crédito,-1,True
+92ed4718-38f5-4b65-8f06-a7cea91b6d76,Kimberly Jackson,2025-04-20T00:00:00.000,9040.4,falha,Gas look go boy send act.,9040.4,crédito,-1,True
+ea2b4a51-c2a3-4375-87f6-b7ca6d1c83bb,Mrs. Angela Robinson MD,2025-04-14T00:00:00.000,9223.58,falha,Space you technology including job conference either father.,9223.58,crédito,-1,True
+14266b1c-3a6c-4933-8d4a-49ed9e85884b,Nicholas Christian,2025-04-21T00:00:00.000,760.8,falha,Blood drive guy fire give.,760.8,crédito,-1,True
+d9c88562-ea63-4183-95d0-a85993456ab0,Cindy Richards,2025-04-19T00:00:00.000,8060.53,falha,Leg cause kind consider white free.,8060.53,crédito,-1,True
+0544d60a-aea9-4a0f-8802-96dacc13feb0,John Leonard,2025-04-17T00:00:00.000,8530.88,falha,About personal foreign beat write.,8530.88,crédito,-1,True
+f6c7b38d-af92-4122-becb-aa745a22dfff,Sarah Reyes,2025-03-28T00:00:00.000,98.75,falha,Product expert effect level kitchen.,98.75,crédito,-1,True
+25a76d61-963b-48ab-9cdc-b6e782280b12,Jason Stewart,2025-04-06T00:00:00.000,9970.7,sucesso,,9970.7,crédito,-1,True
+58f9b7e0-6a6c-4b13-ac7d-9eb02ed0f255,Cheryl Hendricks,2025-04-11T00:00:00.000,9953.73,sucesso,,9953.73,crédito,-1,True
+7de2ccc7-7f74-425e-b953-ea4079bc6f8a,Abigail Jennings,2025-04-14T00:00:00.000,8311.05,falha,Plant bank fund respond power near get term.,8311.05,crédito,-1,True
+6b22c6d3-ccc6-4d2b-87d1-9b03901e7479,Stephanie Solis,2025-04-17T00:00:00.000,327.72,falha,Senior behind can.,327.72,crédito,-1,True
+5835f6bb-4d71-4fa3-b442-c3df90e644c0,Richard Delacruz,2025-04-11T00:00:00.000,-9711.59,falha,Able matter little evening.,9711.59,débito,-1,True
+a0b57505-1dea-413d-ac92-283fa9a8b5f2,Fernando Turner,2025-04-18T00:00:00.000,8593.92,falha,Action in choose recently manager.,8593.92,crédito,-1,True
+bd37eadc-309b-4556-9265-eae2f3971bd6,George Davis,2025-04-24T00:00:00.000,262.44,falha,Discussion number pick example simple the.,262.44,crédito,-1,True
+4d407a31-5625-4500-8553-c078c60f3303,Audrey Waters,2025-04-18T00:00:00.000,-1018.5,falha,Everyone body home total since.,1018.5,débito,-1,True
+0bf86c45-3706-4059-b044-baa53279e5c3,Erica Miller,2025-04-20T00:00:00.000,500.81,falha,Unit according brother poor.,500.81,crédito,-1,True
+1cc81023-8364-40e7-9a11-696cf45ef129,Kylie Berg,2025-04-12T00:00:00.000,8232.09,falha,Support sister image not pretty instead him.,8232.09,crédito,-1,True
+25e6a945-91ec-4fa6-b208-43c74d68c772,Gregory Garza,2025-04-26T00:00:00.000,9280.53,falha,Total kind least almost soldier.,9280.53,crédito,-1,True
+179320cd-d1b1-4deb-9bb1-51eb03d6ce05,Chelsea Gilbert,2025-04-20T00:00:00.000,8567.4,falha,Than magazine next professional too several.,8567.4,crédito,-1,True
+3aa4e2e9-5327-4160-8795-da3bbc1d5c86,Jordan Villanueva,2025-04-08T00:00:00.000,-48.9,falha,Degree particularly executive choice.,48.9,débito,-1,True
+cda9e909-086e-4ca2-a4ff-39d57168523d,Taylor Dyer,2025-04-14T00:00:00.000,-337.3,falha,Team question exactly hope value out rather.,337.3,débito,-1,True
+32c4a86f-5c91-41e4-934c-241d3ef0d17f,Corey Olsen,2025-04-01T00:00:00.000,352.97,falha,Who manager soldier themselves.,352.97,crédito,-1,True
+d5eb122a-e2f0-450e-8c53-b1fb64cf2e00,Juan Smith,2025-04-23T00:00:00.000,7954.56,falha,Probably whether generation close enjoy purpose.,7954.56,crédito,-1,True
+e5a277ef-3a49-4124-8e7e-06fd63fcc5a8,Janice Parker,2025-04-18T00:00:00.000,-543.34,falha,Off around relationship skill especially air few many.,543.34,débito,-1,True
+4febfa9b-830d-4eb3-ae4b-47394dc8cfad,Rebekah Cole,2025-04-21T00:00:00.000,819.63,falha,Talk money talk too system.,819.63,crédito,-1,True
+7c8f07b7-fa88-4838-bf3b-20cefb949a81,Courtney Walter,2025-04-23T00:00:00.000,8164.57,falha,Husband require entire main return hear.,8164.57,crédito,-1,True
+ecc292bd-a4cd-464b-83b4-2ef7e93bd963,Desiree Barajas,2025-04-03T00:00:00.000,124.0,falha,Guy human lead break box.,124.0,crédito,-1,True
+b6ddf27b-b73d-4df4-aab4-03962a0922bf,Justin Moreno,2025-04-11T00:00:00.000,9086.05,falha,Worker deep force traditional real fly.,9086.05,crédito,-1,True
+056561f2-fd4e-4011-9deb-cb793e01ce1e,Calvin Franklin,2025-03-30T00:00:00.000,-8111.55,falha,Feel even me debate since treat account old.,8111.55,débito,-1,True
+0ad8530b-7540-494d-9b2a-0a50aaa0bb3d,Anna Nguyen,2025-04-08T00:00:00.000,9449.31,falha,He letter build he wish simple must the.,9449.31,crédito,-1,True
+c5080345-e9c9-439c-bbdf-5523e433fb5a,Krista Moore,2025-04-04T00:00:00.000,1080.89,falha,Car at especially large simply take.,1080.89,crédito,-1,True
+ddf013ac-5d5d-4f23-813b-925801142216,Larry Chang,2025-03-29T00:00:00.000,-9985.12,sucesso,,9985.12,débito,-1,True
+7d7ea58b-2e54-45e7-9d39-7fb9fd2057f7,Megan Walters,2025-04-22T00:00:00.000,9966.57,sucesso,,9966.57,crédito,-1,True
+0787ad2e-cacb-4c44-b6d1-2dabb97eadf0,Steve Bell,2025-04-16T00:00:00.000,-753.53,falha,Record result far sport.,753.53,débito,-1,True
+fc90d7bd-8666-4ec1-9b2c-c44f59bdcd32,Jennifer Hunter,2025-04-24T00:00:00.000,48.74,falha,Have my although deal prevent.,48.74,crédito,-1,True
+0f0c0c96-48b3-4b8c-acea-54754a35d979,Heidi Moreno,2025-03-30T00:00:00.000,163.19,falha,Movement off modern business great.,163.19,crédito,-1,True
+4db10fa5-ede7-41de-9048-b2f6eb10292b,Cynthia Barajas,2025-04-25T00:00:00.000,-8617.9,falha,Morning newspaper whether out few body.,8617.9,débito,-1,True
+4d2473e8-4b90-432a-a48a-9a363bc0baf8,Roberta Potter,2025-04-12T00:00:00.000,8880.67,falha,Heavy quite trade arm work trial.,8880.67,crédito,-1,True
+e92af80e-f26d-47dc-aee6-9771040d099c,Elizabeth Guerra,2025-04-16T00:00:00.000,-409.79,falha,Yourself guess picture way north modern.,409.79,débito,-1,True
+90d8540d-0784-47b7-8f7c-40b0537c3180,Elaine Perez,2025-03-30T00:00:00.000,-8117.28,falha,Hour better they mission plant.,8117.28,débito,-1,True
+b7255982-aee1-40da-8b05-6255f5c39ed5,Paul Smith DVM,2025-03-30T00:00:00.000,-9930.11,sucesso,,9930.11,débito,-1,True
+3ac381ab-81ec-49b0-b6eb-d54da9499062,Brian Gaines,2025-04-09T00:00:00.000,-8002.85,falha,Affect also part political growth.,8002.85,débito,-1,True
+6a9b1985-3664-415a-81c6-a8e95a474478,Mr. Steven Alvarez,2025-04-02T00:00:00.000,9291.1,falha,Little about glass person though interview.,9291.1,crédito,-1,True
+99557341-74f0-49c8-9bc0-512a96c3c1f9,Brittany Lee,2025-04-13T00:00:00.000,9262.09,falha,Budget that seat itself until.,9262.09,crédito,-1,True
+43153f0a-619b-4382-87df-f1d427da9efb,James Scott,2025-04-24T00:00:00.000,-5460.2,falha,Respond and response office.,5460.2,débito,-1,True
+e8474d44-6801-4a0e-850b-35036f92e2c9,Adam Hanson,2025-04-13T00:00:00.000,-581.26,falha,Election political figure your center window movie line.,581.26,débito,-1,True
+6c585cd5-8262-4e49-8b6c-10bb84a53d05,Jonathan Pace,2025-03-31T00:00:00.000,37.63,falha,Better friend thought team.,37.63,crédito,-1,True
+4d052c92-d70d-4e80-818d-9df13294f31e,Kari Hill,2025-04-07T00:00:00.000,-5119.78,falha,Laugh source far Mr line hand discuss.,5119.78,débito,-1,True
+faa5db5b-4a90-44cf-8da8-219eb9b501a2,Michelle Montoya,2025-04-13T00:00:00.000,8883.89,falha,Successful unit risk human.,8883.89,crédito,-1,True
+e7dd9fdb-78b1-4c2b-b1f4-fae54ebb25d7,Caleb Miller,2025-04-12T00:00:00.000,-8489.49,falha,School space mother alone.,8489.49,débito,-1,True
+2f1477c3-4d50-40d3-8965-608f71001527,Eric Robinson,2025-05-01T00:00:00.000,-9072.81,falha,Spring skin good establish.,9072.81,débito,-1,True
+89c37bdc-46cc-48ca-90db-6d3844b09b63,Bryan Freeman,2025-05-04T00:00:00.000,9963.76,sucesso,,9963.76,crédito,-1,True
+9a4d0d02-43dc-4484-8c8c-56c016e64064,Sierra Pace,2025-04-15T00:00:00.000,-8838.31,falha,Expert him population responsibility short watch.,8838.31,débito,-1,True
+394feab8-ff50-4a36-83bc-cc591d17fcfd,Holly Miller,2025-04-10T00:00:00.000,8788.17,falha,Blue she strong hundred.,8788.17,crédito,-1,True
+5886119e-8226-4417-a005-827a792876ed,Scott Benjamin,2025-04-17T00:00:00.000,-983.32,falha,Approach cut husband discuss foot discuss including performance.,983.32,débito,-1,True
+1978a631-a8f4-4669-87d5-d712504dd16c,Jeremy Cruz,2025-04-18T00:00:00.000,-710.92,falha,Better after arm defense.,710.92,débito,-1,True
+c6e2f97f-2515-43b1-b41a-b06bc4a31cfc,James Moore,2025-04-21T00:00:00.000,9121.74,falha,Moment financial real spend serious receive.,9121.74,crédito,-1,True
+c9745656-058d-4e03-9212-651989fa68d2,Michael Colon,2025-05-03T00:00:00.000,53.44,falha,Process play beyond she senior stand.,53.44,crédito,-1,True
+1f31e535-d368-4c9f-bce7-5c2b05a21077,Grant Mills,2025-04-29T00:00:00.000,-371.48,falha,Clearly that weight property break.,371.48,débito,-1,True
+f03df473-4975-4a69-a6ff-1045f80ef19b,Megan Bailey,2025-04-11T00:00:00.000,-291.99,falha,Hot class ever few building station sea.,291.99,débito,-1,True
+17bd854b-8a68-4a75-8338-7fa6d3247a07,Joseph Bell,2025-04-21T00:00:00.000,-8785.16,falha,One product poor all understand.,8785.16,débito,-1,True
+c6e449e2-806a-4c26-a7b7-a3e5c6e3a343,Joseph Adams,2025-04-30T00:00:00.000,8793.92,falha,Player house across beat attention.,8793.92,crédito,-1,True
+58335002-916d-4d1c-b4fb-e4678ac2e82e,Gabriel Harmon,2025-04-13T00:00:00.000,1093.09,falha,Smile material hope institution.,1093.09,crédito,-1,True
+cb00e286-14db-442c-b30a-303e7aff515f,Joshua White,2025-04-30T00:00:00.000,1105.6,falha,Both campaign against human popular.,1105.6,crédito,-1,True
+93823c89-84f0-47bb-9395-9e15e849d255,Andrew Brown,2025-05-04T00:00:00.000,-9232.78,falha,Recognize cover expect international indicate draw he.,9232.78,débito,-1,True
+2229e33c-43be-41d4-9e3a-b31872a332e6,Angel Hawkins,2025-04-08T00:00:00.000,-8797.93,falha,Civil when best against hot people.,8797.93,débito,-1,True
+7fbde224-1bfe-4520-be1d-4b2b4f9ec49f,Kristopher Lawson,2025-04-17T00:00:00.000,9961.34,sucesso,,9961.34,crédito,-1,True
+b7eabdb4-c55a-45bb-9a20-d34b0a3cff11,Michael Greene,2025-04-25T00:00:00.000,140.08,falha,Plan decade positive prepare.,140.08,crédito,-1,True
+f1e4ae8f-bdea-4d03-b771-22988b9e3140,Manuel Montgomery,2025-05-04T00:00:00.000,8791.77,falha,Maybe nature scientist site.,8791.77,crédito,-1,True

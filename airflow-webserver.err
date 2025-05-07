@@ -1,0 +1,57 @@
+Traceback (most recent call last):
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/psutil/_psposix.py", line 110, in wait_pid
+    retpid, status = os.waitpid(pid, flags)
+                     ^^^^^^^^^^^^^^^^^^^^^^
+ChildProcessError: [Errno 10] No child processes
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pyshell/airflow_env/bin/airflow", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/__main__.py", line 62, in main
+    args.func(args)
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/utils/cli.py", line 116, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/utils/providers_configuration_loader.py", line 55, in wrapped_function
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/cli/commands/webserver_command.py", line 485, in webserver
+    run_command_with_daemon_option(
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/cli/commands/daemon_utils.py", line 81, in run_command_with_daemon_option
+    callback()
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/cli/commands/webserver_command.py", line 488, in <lambda>
+    callback=lambda: start_and_monitor_gunicorn(args),
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/cli/commands/webserver_command.py", line 472, in start_and_monitor_gunicorn
+    monitor_gunicorn(gunicorn_master_proc)
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/cli/commands/webserver_command.py", line 457, in monitor_gunicorn
+    ).start()
+      ^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/cli/commands/webserver_command.py", line 220, in start
+    sleep(1)
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/cli/commands/webserver_command.py", line 445, in <lambda>
+    signal.signal(signal.SIGTERM, lambda signum, _: kill_proc(signum, gunicorn_master_proc))
+                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/cli/commands/webserver_command.py", line 433, in kill_proc
+    gunicorn_master_proc.wait(timeout=30)
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/psutil/__init__.py", line 1347, in wait
+    self._exitcode = self._proc.wait(timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/psutil/_pslinux.py", line 1646, in wrapper
+    return fun(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/psutil/_pslinux.py", line 1880, in wait
+    return _psposix.wait_pid(self.pid, timeout, self._name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/psutil/_psposix.py", line 121, in wait_pid
+    interval = sleep(interval)
+               ^^^^^^^^^^^^^^^
+  File "/home/pyshell/airflow_env/lib/python3.12/site-packages/psutil/_psposix.py", line 103, in sleep
+    raise TimeoutExpired(timeout, pid=pid, name=proc_name)
+psutil.TimeoutExpired: timeout after 30 seconds (pid=39241)

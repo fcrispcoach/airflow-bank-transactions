@@ -1,0 +1,1017 @@
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+[2025-05-07 15:16:36 -0300] [39315] [INFO] Starting gunicorn 23.0.0
+[2025-05-07 15:16:36 -0300] [39315] [INFO] Listening at: http://[::]:8793 (39315)
+[2025-05-07 15:16:36 -0300] [39315] [INFO] Using worker: sync
+[2025-05-07 15:16:36 -0300] [39316] [INFO] Booting worker with pid: 39316
+[2025-05-07 15:16:36 -0300] [39317] [INFO] Booting worker with pid: 39317
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+/home/pyshell/airflow_env/lib/python3.12/site-packages/airflow/plugins_manager.py:298 RemovedInAirflow3Warning: This decorator is deprecated.
+
+In previous versions, all subclasses of BaseOperator must use apply_default decorator for the `default_args` feature to work properly.
+
+In current version, it is optional. The decorator is applied automatically using the metaclass.
+
+[2025-05-07 15:53:12 -0300] [39315] [INFO] Handling signal: term
+[2025-05-07 15:53:12 -0300] [39317] [INFO] Worker exiting (pid: 39317)
+[2025-05-07 15:53:12 -0300] [39316] [INFO] Worker exiting (pid: 39316)
+[2025-05-07 15:53:12 -0300] [39315] [INFO] Shutting down: Master
