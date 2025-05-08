@@ -1,1 +1,0 @@
-[2025-05-07T15:52:54.745-0300] {webserver_command.py:430} INFO - Received signal: 15. Closing gunicorn.

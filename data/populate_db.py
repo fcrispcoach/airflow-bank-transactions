@@ -2,11 +2,11 @@ import psycopg2
 from datetime import datetime, timedelta
 import random
 
-# Configuração do PostgreSQL
+
 conn = psycopg2.connect(
     dbname="time_series",
     user="postgres",
-    password="sua_senha_segura",  # Use a senha que definiu
+    password="sua_senha_segura",  
     host="localhost"
 )
 cursor = conn.cursor()

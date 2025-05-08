@@ -11,15 +11,15 @@ conn = psycopg2.connect(
 
 cur = conn.cursor()
 
-# Limpar tabelas existentes
+
 cur.execute("TRUNCATE historical_data, predictions RESTART IDENTITY;")
 
-# Inserir dados históricos de exemplo
+
 start_date = datetime.now() - timedelta(days=365)
 for i in range(365):
     date = start_date + timedelta(days=i)
     value = random.uniform(90, 110)
-    # Adicionar algumas anomalias
+   
     if random.random() < 0.05:
         value *= 1.5
     cur.execute(
